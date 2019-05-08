@@ -1,0 +1,3 @@
+Stack overflow Questions recommender is based on data mining using python for the algorithm and TKinter for the GUI.
+Made in the industry internship period of AT&t from 14th May 2018 to 29th June 2018.
+Used Spyder interpreter from the Anaconda Naviagtor for the execution of the program.
